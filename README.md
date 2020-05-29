@@ -1,5 +1,5 @@
 # EEG-connectivity-analysis
-Signal Processing
+EEG signal Processing
 
 This code can help you to analyse the EEG connectivity including Coherence, PDC, and isolated Coherence (iCoh).
 Before runing the main function (an example named 'EEG_connectivity_processing'), please remember to:
